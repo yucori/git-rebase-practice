@@ -214,8 +214,6 @@ commit message 컨벤션을 따르고 있는지 다시 한번 확인해주세요
 
 # **[Test 1]** `git merge` vs. `git rebase`
 
-> 김코드가 작업한 signin API가 먼저 리뷰를 받고 main에 병합된 이후, 업데이트 된 main을 내가 작업하는 signup 브랜치에 병합해야 하는 상황입니다!
-
 <br>
 
 ## 1. 메인 PR 병합
